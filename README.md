@@ -1,4 +1,4 @@
-# FDINet
+# FDINet (TGRS2023)
 An Object Fine-Grained Change Detection Method Based on Frequency Decoupling Interaction for High Resolution Remote Sensing Images
 
 ## Cite
