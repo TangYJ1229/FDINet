@@ -3,7 +3,8 @@ An Object Fine-Grained Change Detection Method Based on Frequency Decoupling Int
 
 ## Cite
 If you find this work useful or interesting, please consider citing the following BibTeX entry.
-'''
+
+```
 @article{tang2023object,
   title={An object fine-grained change detection method based on frequency decoupling interaction for high-resolution remote sensing images},
   author={Tang, Yingjie and Feng, Shou and Zhao, Chunhui and Fan, Yuanze and Shi, Qian and Li, Wei and Tao, Ran},
@@ -13,4 +14,4 @@ If you find this work useful or interesting, please consider citing the followin
   year={2023},
   publisher={IEEE}
 }
-'''
+```
